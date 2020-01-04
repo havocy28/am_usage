@@ -1,6 +1,7 @@
 <head>
+      
 <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
-<script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
+<script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
 <script>
       $(document).ready(function(){
           $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
