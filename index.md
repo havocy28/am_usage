@@ -11,7 +11,7 @@
               searching: true
           });
        });
-    </script>
+</script>
 </head>
 
 
