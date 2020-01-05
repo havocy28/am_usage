@@ -14,25 +14,27 @@
   </script>
 </head>
 
+
+		
+
+
 <table id="example" class="display" style="width:100%">
         <thead>
             <tr>
-                <th>Name</th>
-                <th>Position</th>
-                <th>Office</th>
-                <th>Extn.</th>
-                <th>Start date</th>
-                <th>Salary</th>
+                <th>Ingredient</th>
+                <th>ASTAG Rating</th>
+                <th>WHO Rating</th>
+                <th>System Antimicrobial Consults (%)</th>
+                <th>Topical Antimicrobial Consults (%)</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
-                <th>Name</th>
-                <th>Position</th>
-                <th>Office</th>
-                <th>Extn.</th>
-                <th>Start date</th>
-                <th>Salary</th>
+                <th>Ingredient</th>
+                <th>ASTAG Rating</th>
+                <th>WHO Rating</th>
+                <th>System Antimicrobial Consults (%)</th>
+                <th>Topical Antimicrobial Consults (%)</th>
             </tr>
         </tfoot>
  </table>
