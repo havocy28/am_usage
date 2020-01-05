@@ -8,7 +8,7 @@
   <script>
   $(document).ready(function() {
       $('#example').DataTable( {
-          "ajax": "exports.json"
+          "ajax": "export.json"
       } );
   } );
   </script>
