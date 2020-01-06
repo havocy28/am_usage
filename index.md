@@ -22,7 +22,8 @@
 </head>
 
 
-		
+
+<h2>Antimicrobial Usage for Dogs in Australia</h2>
 
 
 <table id="dogs" class="display" style="width:100%">
@@ -47,6 +48,8 @@
             </tr>
         </tfoot>
  </table>
+ 
+ <h2>Antimicrobial Usage for Cats in Australia</h2>
  
  <table id="cats" class="display" style="width:100%">
         <thead>
