@@ -35,5 +35,5 @@
   ["Cephalexin sodium","Medium","β-lactams","Highly Important","21 (0.02)","0 (0)"  ],
   ["Cloxacillin","Medium","β-lactams","Highly Important","0 (0)","16 (0.01)"  ],
   ["Framycetin, gramicidin","Low","Aminoglycocides","Critically Important","0 (0)","13 (0.01)"  ],
-  ["Lincomycin","Medium","Lincosamides","Highly Important","13 (0.01)","0 (0)"  ] ] }
-}
+  ["Lincomycin","Medium","Lincosamides","Highly Important","13 (0.01)","0 (0)"  ] 
+] }
