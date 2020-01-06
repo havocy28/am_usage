@@ -9,7 +9,6 @@
   $(document).ready(function() {
       $('#dogs').DataTable( {
           "ajax": "dogs.json"
-	  "pageLength": 50	  
       } );
   } );
   </script>
@@ -17,7 +16,6 @@
   $(document).ready(function() {
       $('#cats').DataTable( {
           "ajax": "cats.json"
-	  "pageLength": 50
       } );
   } );
   </script>
