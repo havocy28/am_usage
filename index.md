@@ -29,6 +29,7 @@
 <table id="dogs" class="display" style="width:100%">
         <thead>
             <tr>
+		<th>Rank</th>
                 <th>Ingredient</th>
 		<th>Drug Class</th>
 		<th>ASTAG Rating</th>
@@ -39,6 +40,7 @@
         </thead>
         <tfoot>
             <tr>
+		<th>Rank</th>
                 <th>Ingredient</th>
 		<th>Drug Class</th>
                 <th>ASTAG Rating</th>
@@ -54,6 +56,7 @@
  <table id="cats" class="display" style="width:100%">
         <thead>
             <tr>
+		<th>Rank</th>
                 <th>Ingredient</th>
 		<th>Drug Class</th>
 		<th>ASTAG Rating</th>
@@ -64,6 +67,7 @@
         </thead>
         <tfoot>
             <tr>
+		<th>Rank</th>
                 <th>Ingredient</th>
 		<th>Drug Class</th>
                 <th>ASTAG Rating</th>
