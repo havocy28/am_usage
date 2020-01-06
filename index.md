@@ -7,8 +7,15 @@
   <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
   <script>
   $(document).ready(function() {
-      $('#example').DataTable( {
-          "ajax": "Export.json"
+      $('#dogs').DataTable( {
+          "ajax": "dogs.json"
+      } );
+  } );
+  </script>
+  <script>
+  $(document).ready(function() {
+      $('#cats').DataTable( {
+          "ajax": "cats.json"
       } );
   } );
   </script>
@@ -18,11 +25,12 @@
 		
 
 
-<table id="example" class="display" style="width:100%">
+<table id="dogs" class="display" style="width:100%">
         <thead>
             <tr>
                 <th>Ingredient</th>
-                <th>ASTAG Rating</th>
+		<th>Drug Class</th>
+		<th>ASTAG Rating</th>
                 <th>WHO Rating</th>
                 <th>System Antimicrobial Consults (%)</th>
                 <th>Topical Antimicrobial Consults (%)</th>
@@ -31,6 +39,30 @@
         <tfoot>
             <tr>
                 <th>Ingredient</th>
+		<th>Drug Class</th>
+                <th>ASTAG Rating</th>
+                <th>WHO Rating</th>
+                <th>System Antimicrobial Consults (%)</th>
+                <th>Topical Antimicrobial Consults (%)</th>
+            </tr>
+        </tfoot>
+ </table>
+ 
+ <table id="cats" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Ingredient</th>
+		<th>Drug Class</th>
+		<th>ASTAG Rating</th>
+                <th>WHO Rating</th>
+                <th>System Antimicrobial Consults (%)</th>
+                <th>Topical Antimicrobial Consults (%)</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>Ingredient</th>
+		<th>Drug Class</th>
                 <th>ASTAG Rating</th>
                 <th>WHO Rating</th>
                 <th>System Antimicrobial Consults (%)</th>
